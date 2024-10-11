@@ -6,13 +6,6 @@
 </br>
 
 
-### project Samples=>
-
-![WhatsApp Image 2024-10-11 at 5 44 57 PM](https://github.com/user-attachments/assets/9ce46e90-0a39-4ab2-86a5-f271996ce241)
-![WhatsApp Image 2024-10-11 at 5 44 57 PM](https://github.com/user-attachments/assets/5a0b08e0-271f-4ac8-ac05-ef2abc1d8d57)
-![WhatsApp Image 2024-10-11 at 5 44 56 PM](https://github.com/user-attachments/assets/0f70788b-22f5-40bc-8651-4abe0f6068c4)
-![WhatsApp Image 2024-10-11 at 5 44 57 PM12](https://github.com/user-attachments/assets/453d0d8a-4023-46c0-b0ac-e20478f315b7)
-
 
 
 ### technologies
@@ -21,3 +14,15 @@
 -dart
 -git
 -riverpod
+
+
+### project Samples=>
+
+![WhatsApp Image 2024-10-11 at 5 44 57 PM](https://github.com/user-attachments/assets/9ce46e90-0a39-4ab2-86a5-f271996ce241)
+</br>
+![WhatsApp Image 2024-10-11 at 5 44 57 PM](https://github.com/user-attachments/assets/5a0b08e0-271f-4ac8-ac05-ef2abc1d8d57)
+</br>
+![WhatsApp Image 2024-10-11 at 5 44 56 PM](https://github.com/user-attachments/assets/0f70788b-22f5-40bc-8651-4abe0f6068c4)
+</br>
+![WhatsApp Image 2024-10-11 at 5 44 57 PM12](https://github.com/user-attachments/assets/453d0d8a-4023-46c0-b0ac-e20478f315b7)
+
